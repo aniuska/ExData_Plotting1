@@ -1,3 +1,5 @@
+###Creating multiple type of plots #####
+
 #Reading data from created csv file
 data <- read.csv("household_power_consumption.csv",header=TRUE)
 

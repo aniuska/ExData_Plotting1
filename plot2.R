@@ -1,4 +1,6 @@
-#Reading data from created csv file
+###Create Lineal plot by weekdays
+
+#Reading data from created csv file in previous script
 data <- read.csv("household_power_consumption.csv",header=TRUE)
 
 #Plotting 

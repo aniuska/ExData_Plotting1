@@ -1,3 +1,5 @@
+###  Create Histogram for global active power ###
+
 #Filename to read
 f<-c("household_power_consumption.txt")
 

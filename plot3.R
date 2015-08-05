@@ -1,3 +1,5 @@
+####Create several plots with legend###
+
 #Reading data from created csv file
 data <- read.csv("household_power_consumption.csv",header=TRUE)
 
